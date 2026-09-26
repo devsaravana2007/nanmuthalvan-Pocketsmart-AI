@@ -77,3 +77,7 @@ Copy `.env.example` to `.env` and fill in:
 
 MIT — free to use, learn, and modify.
 y.
+
+## Database Setup
+MongoDB is used for this project. Set `MONGODB_URI` in the `.env` file.
+# nanmuthalvan-Pocketsmart-AI
